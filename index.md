@@ -27,7 +27,7 @@ title: Temario
   <ul class="class-list">
     <li class="class-item">
       <div class="cnum">Unidad 1: El rol de las finanzas</div>
-      <h3>Introducción a la econometría y repaso de probabilidad</h3>
+      <h3>Introducción y las finanzas como área de estudio</h3>
       <div class="mat-links">
         <a href="https://raw.githack.com/Lufesc/IFI211SII26/main/Contenido/Unidad1_RolFinanzas.pdf">Presentación</a>
         <a href="">Práctica guiada</a>
