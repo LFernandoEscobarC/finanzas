@@ -38,7 +38,7 @@ title: Temario
       <h3>Mercados financieros, sus áreas y principales oportunidades para conocer la canalización del ahorro individual al financiamiento de la empresa</h3>
       <div class="mat-links">
         <a href="https://raw.githack.com/Lufesc/IFI211SII26/main/Contenido/Unidad2_MercadosFinancieros.pdf">Presentación</a>
-        <a href="https://raw.githack.com/Lufesc/IFI211SII26/main/Trabajos prácticos/Trabajo práctico de investigación 2.pdf">Trabajo práctico de investigación grupal</a>
+        <a href="https://raw.githack.com/Lufesc/IFI211SII26/main/Trabajos prácticos/Trabajo práctico de investigación 2.pdf">Trabajo práctico de investigación grupal 2</a>
         <a href="https://raw.githack.com/Lufesc/IFI211SII26/main/Trabajos prácticos/Práctico individual de la unidad II.pdf">Práctica independiente</a>
       </div>
     </li>
