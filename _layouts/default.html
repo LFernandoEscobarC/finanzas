@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+<meta name="description" content="{{ site.description }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+
+<header class="nav">
+  <div class="brand">Econometría · L.F. Escobar</div>
+  <ul>
+    <li><a href="{{ '/' | relative_url }}">Temario</a></li>
+    <li><a href="https://lufesc.github.io/">← Volver al sitio principal</a></li>
+  </ul>
+</header>
+
+{{ content }}
+
+<footer>
+  <strong>Econometría</strong>
+  <div class="f-rule"></div>
+  Material docente de Luis Fernando Escobar Caba · UAGRM Business School<br>
+  lfernandoescobarc@gmail.com
+</footer>
+
+</body>
+</html>
