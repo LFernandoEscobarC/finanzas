@@ -4,7 +4,7 @@ title: Temario
 
 <div class="hero" style="min-height:220px;">
   <div class="hero-inner">
-    <h1>ECONOMETRÍA</h1>
+    <h1>FINANZAS I</h1>
     <div class="hero-rule"></div>
     <div class="hero-role">Material de clase · UAGRM Business School</div>
   </div>
@@ -46,40 +46,7 @@ title: Temario
         <a href="{{ '/clases/clase-2/#practica-independiente' | relative_url }}">Práctica independiente</a>
       </div>
     </li>
-    <li class="class-item">
-      <div class="cnum">Clase 3</div>
-      <h3>Regresión lineal múltiple e inferencia</h3>
-      <div class="mat-links">
-        <a href="#">Próximamente</a>
-      </div>
-    </li>
+
   </ul>
 
-  <div class="axis-title">Eje 2 · Diagnóstico y series de tiempo</div>
-  <ul class="class-list">
-    <li class="class-item">
-      <div class="cnum">Clase 4</div>
-      <h3>Multicolinealidad, heterocedasticidad y autocorrelación</h3>
-      <div class="mat-links"><a href="#">Próximamente</a></div>
-    </li>
-    <li class="class-item">
-      <div class="cnum">Clase 5</div>
-      <h3>Estacionariedad, raíces unitarias y modelos ARIMA</h3>
-      <div class="mat-links"><a href="#">Próximamente</a></div>
-    </li>
-  </ul>
-
-  <div class="axis-title">Eje 3 · Volatilidad y riesgo</div>
-  <ul class="class-list">
-    <li class="class-item">
-      <div class="cnum">Clase 6</div>
-      <h3>Modelos ARCH y GARCH</h3>
-      <div class="mat-links"><a href="#">Próximamente</a></div>
-    </li>
-    <li class="class-item">
-      <div class="cnum">Clase 7</div>
-      <h3>Modelos GARCH asimétricos (EGARCH, GJR-GARCH) y aplicaciones</h3>
-      <div class="mat-links"><a href="#">Próximamente</a></div>
-    </li>
-  </ul>
 </main>
