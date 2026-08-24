@@ -45,10 +45,10 @@ title: Temario
   </ul>
   
 <div class="card">
-      <h4>Prácticas en aula</h4>
+      <h4>Taller práctico en aula</h4>
       <p>Se discute "Teoría vs. Práctica" en base del estudio de Mariño & Medina (2009).</p>
-      <a class="link" href="https://raw.githack.com/Lufesc/IFI211SII26/main/Trabajos prácticos/Instrucciones para la práctica 1 en aula.pdf">Instrucciones →</a>
-      <a class="link" href="https://raw.githack.com/Lufesc/IFI211SII26/main/Trabajos prácticos/Becerra, G. Y. M., & Sandoval, I. M. (2009). La administración financiera una utopía en las microempresas. Criterio libre, 7(11), 123-144..pdf">Paper →</a>
+      <a class="link" href="https://raw.githack.com/Lufesc/IFI211SII26/main/Trabajos prácticos/Instrucciones para la práctica 1 en aula.pdf">Instrucciones</a>
+      <a class="link" href="https://raw.githack.com/Lufesc/IFI211SII26/main/Trabajos prácticos/Becerra, G. Y. M., & Sandoval, I. M. (2009). La administración financiera una utopía en las microempresas. Criterio libre, 7(11), 123-144..pdf">Paper</a>
     </div>
 
 </main>
