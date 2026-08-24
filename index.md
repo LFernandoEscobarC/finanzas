@@ -30,7 +30,7 @@ title: Temario
       <h3>Introducción y las finanzas como área de estudio</h3>
       <div class="mat-links">
         <a href="https://raw.githack.com/Lufesc/IFI211SII26/main/Contenido/Unidad1_RolFinanzas.pdf">Presentación</a>
-        <a href="https://raw.githack.com/Lufesc/IFI211SII26/main/Trabajos prácticos/Trabajo práctico de investigación 1.pdf">Trabajo práctico de investigación grupal</a>
+        <a href="https://raw.githack.com/Lufesc/IFI211SII26/main/Trabajos prácticos/Trabajo práctico de investigación 1.pdf">Trabajo práctico de investigación grupal 1</a>
       </div>
     </li>
     <li class="class-item">
