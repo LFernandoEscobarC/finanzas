@@ -17,7 +17,7 @@ title: Temario
     </p>
     <p style="margin-top:14px;">
       <a class="card" style="display:inline-block; padding:12px 18px;"
-         href="[https://github.com/Lufesc/econometria/archive/refs/heads/main.zip](https://raw.githack.com/Lufesc/IFI211SII26/main/Material%20bibliogr%C3%A1fico.zip)">
+         href="https://raw.githack.com/Lufesc/IFI211SII26/main/Material%20bibliogr%C3%A1fico.zip">
          ⬇ Material bibliográfico (.zip)
       </a>
     </p>
