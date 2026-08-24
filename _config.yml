@@ -1,7 +1,7 @@
-title: "Econometría"
-description: "Materiales del curso de Econometría — Luis Fernando Escobar Caba, UAGRM Business School"
+title: "Finanzas I"
+description: "Materiales del curso de Finanzas I — Luis Fernando Escobar Caba, UCB"
 url: "https://lufesc.github.io"
-baseurl: "/econometria"
+baseurl: "/finanzas"
 
 defaults:
   - scope:
