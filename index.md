@@ -30,17 +30,16 @@ title: Temario
       <h3>Introducción y las finanzas como área de estudio</h3>
       <div class="mat-links">
         <a href="https://raw.githack.com/Lufesc/IFI211SII26/main/Contenido/Unidad1_RolFinanzas.pdf">Presentación</a>
-        <a href="">Práctica guiada</a>
-        <a href="">Práctica independiente</a>
+        <a href="https://raw.githack.com/Lufesc/IFI211SII26/main/Trabajos prácticos/Trabajo práctico de investigación 1.pdf">Trabajo práctico de investigación grupal</a>
       </div>
     </li>
     <li class="class-item">
-      <div class="cnum">Clase 2</div>
-      <h3>Regresión lineal simple: MCO y supuestos clásicos</h3>
+      <div class="cnum">Unidad 2: Los mercados financieros, sus productos y servicios</div>
+      <h3>Mercados financieros, sus áreas y principales oportunidades para conocer la canalización del ahorro individual al financiamiento de la empresa</h3>
       <div class="mat-links">
-        <a href="{{ '/clases/clase-2/' | relative_url }}">Explicación</a>
-        <a href="{{ '/clases/clase-2/#practica-guiada' | relative_url }}">Práctica guiada</a>
-        <a href="{{ '/clases/clase-2/#practica-independiente' | relative_url }}">Práctica independiente</a>
+        <a href="https://raw.githack.com/Lufesc/IFI211SII26/main/Contenido/Unidad2_MercadosFinancieros.pdf">Explicación</a>
+        <a href="https://raw.githack.com/Lufesc/IFI211SII26/main/Trabajos prácticos/Trabajo práctico de investigación 2.pdf">Trabajo práctico de investigación grupal</a>
+        <a href="https://raw.githack.com/Lufesc/IFI211SII26/main/Trabajos prácticos/Práctico individual de la unidad II.pdf">Práctica independiente</a>
       </div>
     </li>
 
