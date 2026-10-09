@@ -42,6 +42,15 @@ title: Temario
         <a href="https://raw.githack.com/Lufesc/IFI211SII26/main/Trabajos prácticos/Práctico individual de la unidad II.pdf">Práctica independiente</a>
       </div>
     </li>
+    <li class="class-item">
+      <div class="cnum">Unidad 3: Los estados financieros y el flujo de efectivo</div>
+      <h3>Explicar las decisiones de finanzas y como se reflejan en los estados financieros. Conocer los principales estados financieros y sus limitaciones</h3>
+      <div class="mat-links">
+        <a href="https://raw.githack.com/Lufesc/IFI211SII26/main/Contenido/Unidad3_LosEstadosFinancieros.pdf">Presentación</a>
+        <a href="https://revistas.uleam.edu.ec/index.php/uleam_bahia_magazine/article/view/218/268">Paper</a>
+        <a href="https://raw.githack.com/Lufesc/IFI211SII26/main/Trabajos prácticos/Práctico individual de la unidad III.pdf">Práctica independiente</a> 
+      </div>
+    </li>
   </ul>
   
 <div class="card">
